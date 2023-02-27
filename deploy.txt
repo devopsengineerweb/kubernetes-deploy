@@ -20,3 +20,6 @@ https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-12-10/amazon-e
 
 Nodes
 https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-12-10/amazon-eks-nodegroup.yaml
+
+mapa de configuração do autenticador
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-08-30/aws-auth-cm.yaml	
